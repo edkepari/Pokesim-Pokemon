@@ -1,0 +1,89 @@
+Physical
+Leaf Blade
+Power Whip
+Wood Hammer
+Aqua Tail
+Waterfall
+Aqua Jet
+Flare Blitz
+Blaze Kick
+Megahorn
+X-scissor
+Bug Bite
+Crunch
+Night Slash
+Payback
+Sucker Punch
+Outrage
+Dragon Rush
+Dragon Claw
+Volt Tackle
+Thunder Punch
+Close Combat
+Mach Punch
+Sky Uppercut
+Brave Bird
+Drill Peck
+Pluck
+Shadow Claw
+Shadow Sneak
+Shadow Punch
+Earthquake
+Fissure
+Ice Shard
+Ice Fang
+Ice Punch
+Extremespeed
+Horn Drill
+Mega Kick
+Hyper Fang
+Poison Jab
+Gunk Shot
+Poison Fang
+Cross Poison
+Zen Headbutt
+Stone Edge
+Head Smash
+Rock Slide
+Bullet Punch
+Iron Tail
+Iron Head
+Magnet Bomb
+-
+Special
+Energy Ball
+Leaf Storm
+Hydro Pump
+Surf
+Overheat
+Fire Blast
+Heat Wave
+Bug Buzz
+Signal Beam
+Dark Pulse
+Draco Meteor
+Dragon Pulse
+Thunderbolt
+Zap Cannon
+Thunder
+Aura Sphere
+Focus Blast
+Air Slash
+Aeroblast
+Shadow Ball
+Ominous Wind
+Earth Power
+Mud Bomb
+Mud Shot
+Ice Beam
+Blizzard
+Tri Attack
+Sludge Bomb
+Dream Eater
+Psychic
+Extrasensory
+Psycho Boost
+Power Gem
+Ancientpower
+Flash Cannon
+-

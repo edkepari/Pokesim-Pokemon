@@ -1,0 +1,952 @@
+Pokemon
+Physical
+STAB 1
+STAB 2
+Coverage
+Special
+STAB 1
+STAB 2
+Coverage
+****
+Venasaur
+Physical
+STAB 1
+Leaf Blade
+Power Whip
+Wood Hammer
+-
+STAB 2
+Poison Jab
+Gunk Shot
+Poison Fang
+Cross Poison
+-
+Coverage
+Earthquake
+Outrage
+-
+Special
+STAB 1
+Energy Ball
+Leaf Storm
+-
+STAB 2
+Sludge Bomb
+-
+Coverage
+-
+****
+Blastoise
+Physical
+STAB 1
+Aqua Tail
+Waterfall
+Aqua Jet
+-
+STAB 2
+-
+Coverage
+Iron Tail
+Earthquake
+Rock Slide
+Zen Headbutt
+Outrage
+-
+Special
+STAB 1
+Hydro Pump
+Surf
+-
+STAB 2
+-
+Coverage
+Flash Cannon
+Ice Beam
+Blizzard
+Focus Blast
+Signal Beam
+-
+****
+Charizard
+Physical
+STAB 1
+Flare Blitz
+Blaze Kick
+-
+STAB 2
+Brave Bird
+Drill Peck
+Pluck
+-
+Coverage
+Dragon Claw
+Shadow Claw
+Iron Tail
+Earthquake
+-
+Special
+STAB 1
+Overheat
+Fire Blast
+Heat Wave
+-
+STAB 2
+Air Slash
+-
+Coverage
+Focus Blast
+Dragon Pulse
+Ancient Power
+Ominous Wind
+-
+****
+Infernape
+Physical
+STAB 1
+Flare Blitz
+Blaze Kick
+-
+STAB 2
+Close Combat
+Mach Punch
+Sky Uppercut
+-
+Coverage
+Iron Tail
+Earthquake
+Shadow Claw
+Stone Edge
+Rock Slide
+Poison Jab
+Thunder Punch
+Gunk Shot
+-
+Special
+STAB 1
+Fire Blast
+Heat Wave
+-
+STAB 2
+Focus Blast
+-
+Coverage
+Thunderbolt
+Earth Power
+Psychic
+Flash Cannon
+-
+****
+Sceptile
+Physical
+STAB 1
+Leaf Blade
+Power Whip
+Wood Hammer
+-
+STAB 2
+-
+Coverage
+Night Slash
+X-scissor
+Dragon Claw
+Iron Tail
+Earthquake
+Rock Slide
+Thunder Punch
+Outrage
+Crunch
+-
+Special
+STAB 1
+Energy Ball
+Leaf Storm
+-
+STAB 2
+-
+Coverage
+Focus Blast
+Dragon Pulse
+-
+****
+Snorlax
+Physical
+STAB 1
+Mega Kick
+Hyper Fang
+-
+STAB 2
+-
+Coverage
+Crunch
+Earthquake
+Rock Slide
+Ice Punch
+Thunder Punch
+Zen Headbutt
+-
+Special
+STAB 1
+Tri Attack
+-
+STAB 2
+-
+Coverage
+Ice Beam
+Blizzard
+Thunderbolt
+Surf
+-
+****
+Blissey
+Physical
+STAB 1
+Mega Kick
+Hyper Fang
+-
+STAB 2
+-
+Coverage
+Iron Tail
+Earthquake
+Rock Slide
+Thunder Punch
+-
+Special
+STAB 1
+Tri Attack
+-
+STAB 2
+-
+Coverage
+Ice Beam
+Blizzard
+Thunderbolt
+Shadow Ball
+-
+****
+Mewtwo
+Physical
+STAB 1
+Zen Headbutt
+-
+STAB 2
+-
+Coverage
+Iron Tail
+Earthquake
+Stone Edge
+Rock Slide
+Poison Jab
+Ice Punch
+Thunder Punch
+Aqua Tail
+-
+Special
+STAB 1
+Dream Eater
+Psychic
+Extrasensory
+Psycho Boost
+-
+STAB 2
+-
+Coverage
+Aura Sphere
+Ice Beam
+Blizzard
+Thunderbolt
+Thunder
+Shadow Ball
+Fire Blast
+Focus Blast
+Energy Ball
+Signal Beam
+-
+****
+Gyarados
+Physical
+STAB 1
+Aqua Tail
+Waterfall
+Aqua Jet
+-
+STAB 2
+-
+Coverage
+Ice Fang
+Earthquake
+Payback
+Stone Edge
+Iron Head
+Outrage
+-
+Special
+STAB 1
+Hydro Pump
+Surf
+-
+STAB 2
+-
+Coverage
+Ice Beam
+Blizzard
+Thunderbolt
+Thunder
+Fire Blast
+Dragon Pulse
+Dark Pulse
+-
+****
+Lapras
+Physical
+STAB 1
+Aqua Tail
+Waterfall
+Aqua Jet
+-
+STAB 2
+Ice Shard
+Ice Fang
+Ice Punch
+-
+Coverage
+Iron Tail
+Zen Headbutt
+Outrage
+Iron Head
+-
+Special
+STAB 1
+Hydro Pump
+Surf
+-
+STAB 2
+Ice Beam
+Blizzard
+Sheer Cold
+-
+Coverage
+Thunderbolt
+Thunder
+Psychic
+Dragon Pulse
+-
+****
+Lugia
+Physical
+STAB 1
+Zen Headbutt
+-
+STAB 2
+Brave Bird
+Drill Peck
+Pluck
+-
+Coverage
+Dragon Rush
+Iron Tail
+Earthquake
+Aqua Tail
+Iron Head
+Waterfall
+-
+Special
+STAB 1
+Dream Eater
+Psychic
+Extrasensory
+Psycho Boost
+-
+STAB 2
+Aeroblast
+Air Slash
+-
+Coverage
+Hydro Pump
+Ancient Power
+Extrasensory
+Ice Beam
+Blizzard
+Thunderbolt
+Thunder
+Shadow Ball
+Dragon Pulse
+Surf
+Earth Power
+Signal Beam
+-
+****
+Zapdos
+Physical
+STAB 1
+Volt Tackle
+-
+STAB 2
+Brave Bird
+Drill Peck
+Pluck
+-
+Coverage
+Earthquake
+-
+Special
+STAB 1
+Thunderbolt
+Thunder
+-
+STAB 2
+Air Slash
+-
+Coverage
+Ancient Power
+Heat Wave
+Signal Beam
+-
+****
+Aggron
+Physical
+STAB 1
+Iron Tail
+Iron Head
+Magnet Bomb
+-
+STAB 2
+Stone Edge
+Head Smash
+Rock Slide
+-
+Coverage
+Dragon Claw
+Earthquake
+Shadow Claw
+Ice Punch
+-
+Special
+STAB 1
+Flash Cannon
+-
+STAB 2
+Ancient Power
+-
+Coverage
+Ice Beam
+Thunderbolt
+Fire Blast
+Dragon Pulse
+-
+****
+Garchomp
+Physical
+STAB 1
+Outrage
+Dragon Rush
+Dragon Claw
+-
+STAB 2
+Earthquake
+-
+Coverage
+Crunch
+Iron Tail
+Shadow Claw
+Stone Edge
+Iron Head
+-
+Special
+STAB 1
+Draco Meteor
+Dragon Pulse
+-
+STAB 2
+Earth Power
+Mud Bomb
+Mud Shot
+-
+Coverage
+Fire Blast
+Surf
+-
+****
+Dragonite
+Physical
+STAB 1
+Outrage
+Dragon Rush
+Dragon Claw
+-
+STAB 2
+Brave Bird
+Drill Peck
+Pluck
+-
+Coverage
+Thunder Punch
+Aqua Tail
+Extremespeed
+Rock Slide
+-
+Special
+STAB 1
+Draco Meteor
+Dragon Pulse
+-
+STAB 2
+Air Slash
+-
+Coverage
+Ice Beam
+Thunderbolt
+Fire Blast
+Focus Blast
+Surf
+-
+****
+Gengar
+Physical
+STAB 1
+Shadow Claw
+Shadow Sneak
+Shadow Punch
+-
+STAB 2
+Poison Jab
+Gunk Shot
+Poison Fang
+Cross Poison
+-
+Coverage
+Sucker Punch
+Ice Punch
+Thunder Punch
+-
+Special
+STAB 1
+Shadow Ball
+Ominous Wind
+-
+STAB 2
+Sludge Bomb
+-
+Coverage
+Dream Eater
+Dark Pulse
+Thunderbolt
+Psychic
+Focus Blast
+Energy Ball
+-
+****
+Absol
+Physical
+STAB 1
+Crunch
+Night Slash
+Payback
+Sucker Punch
+-
+STAB 2
+-
+Coverage
+Iron Tail
+Shadow Claw
+Stone Edge
+X-scissor
+Zen Headbutt
+Megahorn
+-
+Special
+STAB 1
+Dark Pulse
+-
+STAB 2
+-
+Coverage
+Ice Beam
+Thunderbolt
+Fire Blast
+Dream Eater
+-
+****
+Scizor
+Physical
+STAB 1
+X-scissor
+Bug Bite
+-
+STAB 2
+Bullet Punch
+Iron Head
+-
+Coverage
+Night Slash
+Earthquake
+Ice Punch
+Stone Edge
+-
+Special
+STAB 1
+Bug Buzz
+-
+STAB 2
+Flash Cannon
+-
+Coverage
+Air Slash
+Bug Buzz
+-
+****
+Heracross
+Physical
+STAB 1
+Megahorn
+X-scissor
+Bug Bite
+-
+STAB 2
+Close Combat
+Mach Punch
+Sky Uppercut
+-
+Coverage
+Night Slash
+Earthquake
+Stone Edge
+Shadow Claw
+-
+Special
+STAB 1
+Bug Buzz
+Signal Beam
+-
+STAB 2
+Focus Blast
+-
+Coverage
+-
+****
+Pikachu
+Physical
+STAB 1
+Volt Tackle
+Thunder Punch
+-
+STAB 2
+-
+Coverage
+Iron Tail
+Extremespeed
+-
+Special
+STAB 1
+Thunderbolt
+Thunder
+-
+STAB 2
+-
+Coverage
+Signal Beam
+Surf
+-
+****
+Mamoswine
+Physical
+STAB 1
+Ice Shard
+Ice Fang
+-
+STAB 2
+Earthquake
+Fissure
+-
+Coverage
+Stone Edge
+Hyper Fang
+-
+Special
+STAB 1
+Ice Beam
+Blizzard
+-
+STAB 2
+Earth Power
+Mud Bomb
+Mud Shot
+-
+Coverage
+Ancient Power
+-
+****
+Rhyperior
+Physical
+STAB 1
+Earthquake
+-
+STAB 2
+Stone Edge
+Rock Slide
+-
+Coverage
+Poison Jab
+Horn Drill
+Megahorn
+Iron Tail
+Ice Punch
+Aqua Tail
+Outrage
+-
+Special
+STAB 1
+Earth Power
+Mud Bomb
+Mud Shot
+-
+STAB 2
+Ancient Power
+-
+Coverage
+-
+****
+Magnezone
+Physical
+STAB 1
+-
+STAB 2
+Magnet Bomb
+-
+Coverage
+-
+Special
+STAB 1
+Thunderbolt
+Thunder
+Zap Cannon
+-
+STAB 2
+Flash Cannon
+-
+Coverage
+Signal Beam
+Tri Attack
+-
+****
+Abomasnow
+Physical
+STAB 1
+Leaf Blade
+Power Whip
+Wood Hammer
+-
+STAB 2
+Ice Shard
+Ice Punch
+-
+Coverage
+Iron Tail
+Earthquake
+Rock Slide
+-
+Special
+STAB 1
+Energy Ball
+Leaf Storm
+-
+STAB 2
+Blizzard
+Ice Beam
+-
+Coverage
+Shadow Ball
+Focus Blast
+-
+****
+Dusknoir
+Physical
+STAB 1
+Shadow Claw
+Shadow Sneak
+Shadow Punch
+-
+STAB 2
+-
+Coverage
+Thunder Punch
+Ice Punch
+Rock Slide
+-
+Special
+STAB 1
+Shadow Ball
+Ominous Wind
+-
+STAB 2
+-
+Coverage
+Ice Beam
+Psychic
+Focus Blast
+Dark Pulse
+-
+****
+Spiritomb
+Physical
+STAB 1
+Shadow Sneak
+-
+STAB 2
+Night Slash
+Sucker Punch
+-
+Coverage
+-
+Special
+STAB 1
+Shadow Ball
+Ominous Wind
+-
+STAB 2
+Dark Pulse
+-
+Coverage
+Dream Eater
+Psychic
+-
+****
+Darkrai
+Physical
+STAB 1
+Crunch
+Sucker Punch
+Night Slash
+Payback
+-
+STAB 2
+-
+Coverage
+Shadow Claw
+Rock Slide
+X-scissor
+Poison Jab
+Outrage
+-
+Special
+STAB 1
+Dark Pulse
+-
+STAB 2
+-
+Coverage
+Dream Eater
+Ice Beam
+Thunderbolt
+Sludge Bomb
+Aura Sphere
+Draco Meteor
+Fire Blast
+-
+****
+Rayquaza
+Physical
+STAB 1
+Outrage
+Dragon Rush
+Dragon Claw
+-
+STAB 2
+Brave Bird
+Drill Peck
+Pluck
+-
+Coverage
+Crunch
+Extremespeed
+Iron Tail
+Earthquake
+Shadow Claw
+Stone Edge
+Aqua Tail
+Close Combat
+-
+Special
+STAB 1
+Draco Meteor
+Dragon Pulse
+-
+STAB 2
+Air Slash
+-
+Coverage
+Ancient Power
+Ice Beam
+Blizzard
+Thunderbolt
+Thunder
+Fire Blast
+Overheat
+Focus Blast
+Energy Ball
+Surf
+Earth Power
+-
+****
+Groudon
+Physical
+STAB 1
+Earthquake
+Fissure
+-
+STAB 2
+-
+Coverage
+Dragon Claw
+Iron Tail
+Shadow Claw
+Stone Edge
+Thunder Punch
+-
+Special
+STAB 1
+Earth Power
+Mud Bomb
+Mud Shot
+-
+STAB 2
+-
+Coverage
+Ancient Power
+Fire Blast
+Thunderbolt
+Thunder
+Overheat
+Focus Blast
+Dragon Pulse
+-
+****
+Kyogre
+Physical
+STAB 1
+Aqua Tail
+Waterfall
+Aqua Jet
+-
+STAB 2
+-
+Coverage
+Earthquake
+Rock Slide
+Iron Head
+-
+Special
+STAB 1
+Hydro Pump
+Surf
+-
+STAB 2
+-
+Coverage
+Ancient Power
+Ice Beam
+Sheer Cold
+Blizzard
+Thunder
+Signal Beam
+-

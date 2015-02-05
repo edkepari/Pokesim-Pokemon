@@ -1,0 +1,250 @@
+Attack Type
+Strong Against
+Weak Against
+Immune Against
+****
+Normal
+Strong Against
+-
+Weak Against
+Rock
+Steel
+-
+Immune Against
+Ghost
+-
+****
+Fire
+Strong Against
+Grass
+Ice
+Bug
+Steel
+-
+Weak Against
+Fire
+Water
+Rock
+Dragon
+-
+Immune Against
+-
+****
+Water
+Strong Against
+Fire
+Ground
+Rock
+-
+Weak Against
+Water
+Grass
+Dragon
+-
+Immune Against
+-
+****
+Electric
+Strong Against
+Water
+Flying
+-
+Weak Against
+Electric
+Grass
+Dragon
+-
+Immune Against
+Ground
+-
+****
+Grass
+Strong Against
+Water
+Ground
+Rock
+-
+Weak Against
+Fire
+Grass
+Poison
+Flying
+Bug
+Dragon
+Steel
+-
+Immune Against
+-
+****
+Ice
+Strong Against
+Grass
+Ground
+Flying
+Dragon
+-
+Weak Against
+Fire
+Water
+Ice
+Steel
+-
+Immune Against
+-
+****
+Fight
+Strong Against
+Normal
+Ice
+Rock
+Dark
+Steel
+-
+Weak Against
+Poison
+Flying
+Psychic
+Bug
+-
+Immune Against
+Ghost
+-
+****
+Poison
+Strong Against
+Grass
+-
+Weak Against
+Poison
+Ground
+Rock
+Ghost
+-
+Immune Against
+Steel
+-
+****
+Ground
+Strong Against
+Fire
+Electric
+Poison
+Rock
+Steel
+-
+Weak Against
+Grass
+Bug
+-
+Immune Against
+Flying
+-
+****
+Flying
+Strong Against
+Grass
+Fight
+Bug
+-
+Weak Against
+Electric
+Rock
+Steel
+-
+Immune Against
+-
+****
+Psychic
+Strong Against
+Fight
+Poison
+-
+Weak Against
+Psychic
+Steel
+-
+Immune Against
+Dark
+-
+****
+Bug
+Strong Against
+Grass
+Psychic
+Dark
+-
+Weak Against
+Fire
+Fight
+Poison
+Flying
+Ghost
+Steel
+-
+Immune Against
+-
+****
+Rock
+Strong Against
+Fire
+Ice
+Flying
+Bug
+-
+Weak Against
+Fight
+Ground
+Steel
+-
+Immune Against
+-
+****
+Ghost
+Strong Against
+Psychic
+Ghost
+-
+Weak Against
+Dark
+Steel
+-
+Immune Against
+Normal
+-
+****
+Dragon
+Strong Against
+Dragon
+-
+Weak Against
+Steel
+-
+Immune Against
+-
+****
+Dark
+Strong Against
+Psychic
+Ghost
+-
+Weak Against
+Fight
+Dark
+Steel
+-
+Immune Against
+-
+****
+Steel
+Strong Against
+Ice
+Rock
+-
+Weak Against
+Fire
+Water
+Electric
+Steel
+-
+Immune Against
+-
